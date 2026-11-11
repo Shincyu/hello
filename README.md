@@ -1,4 +1,4 @@
-hi
+
 
 
 
@@ -8,7 +8,9 @@ hi
 
 
 
-me and my bradar
+me and my bradar 
+
+
 <img src="https://github.com/Shincyu/hello/blob/f94c3fb24f44f6a37f12069876edf242526c54f4/IMG_2545.jpeg" width="500" height="300">
 
 
