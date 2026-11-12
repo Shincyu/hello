@@ -11,7 +11,7 @@
 
 
 
-<img src=" https://github.com/Shincyu/hello/blob/7d106ec0470de1a49349f6ed3e314f81651f53de/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%801_20261112093914.png" width="500" >
+<img src="https://github.com/Shincyu/hello/blob/ae12a39f5d32efda9109d50d2f7dba42649b500b/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%801_20261112093914.png" width="500" >
 
 
 
