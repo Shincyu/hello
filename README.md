@@ -8,10 +8,10 @@
 
 
 
-me and my bradar 
 
 
-<img src="https://github.com/Shincyu/hello/blob/f94c3fb24f44f6a37f12069876edf242526c54f4/IMG_2545.jpeg" width="500" height="300">
+
+<img src=" https://github.com/Shincyu/hello/blob/7d106ec0470de1a49349f6ed3e314f81651f53de/Kho%CC%82ng%20Co%CC%81%20Tie%CC%82u%20%C4%90e%CC%82%CC%801_20261112093914.png" width="500" >
 
 
 
