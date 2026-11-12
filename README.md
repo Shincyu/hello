@@ -3,7 +3,7 @@
 
 
 
-[![Hits](https://hits.sh/github.com/twottimey.svg?label=laughability&extraCount=92790&color=dcc7b7&labelColor=e05d44&logo=youtube)](https://hits.sh/github.com/twottimey/)
+[![Hits](https://hits.sh/github.com/twottimey.svg?label=polar%20cub&extraCount=87166&color=973a5a&labelColor=e85586&logo=roblox)](https://hits.sh/github.com/twottimey/)
 
 
 
